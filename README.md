@@ -1,8 +1,8 @@
 # 🏡 Domu
 
 A small web app applications that I'm building while learning React!
-There are two main sections:
 
+There are two main sections:
 - Bacheca: where ideal normal users (neighbours) can insert, delete, mark as read/to read;
 - Comunicazioni: here only the administrator will upload comunications that the neighbours are going to read.
 
